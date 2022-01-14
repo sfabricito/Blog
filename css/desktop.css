@@ -1,0 +1,163 @@
+/* Cambio de vista (break-point) Desktop (920px) */
+
+
+
+/* Bara de navegacion superior */
+
+.header-container{
+    width: 70%;
+    font-size: 1.6rem;
+}
+
+
+.buttom{
+    font-size: 1.6rem;
+}
+
+/* Barra de busqueda y tags */
+
+
+.nav_search--categories{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav_search--categories a{
+    font-size: 1.4rem;
+}
+
+
+.nav_search--container{
+    margin: auto;
+    width: 70%;
+    flex-direction: row;
+}
+
+.nav_search--search input{
+    max-width: 320px;
+    font-size: 1.6rem;
+}
+
+.post_container{
+    width: 70%;
+}
+
+
+/* Titulo de la seccion main */
+
+.main_title--container{
+    width: 70%;
+}
+
+.main_title--principal{
+    font-size: 5.2rem
+}
+
+.main_title--text{
+    line-height: 2.1rem;
+    font-size: 1.6rem;
+}
+
+/* Seccion de la pre-vista de los post */
+
+
+.preview-post_container{
+    width: 70%;
+}
+
+.preview-post_title{
+    font-size: 2rem;
+}
+
+.preview-post_time{
+    font-size: 1.5rem;
+}
+
+.preview-post_title a,
+.preview-post_title h2{
+    width: 290px;
+    text-decoration: none;
+    color: inherit;
+}
+
+.preview-post_quote{
+    max-width: 290px;
+    width: 50%;
+    height: 190px;
+    min-height: 120px;
+}
+
+.preview-post_quote p{
+    font-size: 1.6rem;
+}
+
+/* Codigo del snippet que se inserta en los post para escribir codigo */
+.post{
+    width: 45%;
+}
+
+.post-title{
+    padding: 6rem 0 6rem 0;
+}
+
+.post-title .title{
+    max-width: 560px;
+    font-size: 3.6rem;
+}
+
+.post-title .time
+{
+    font-size: 1.5rem;
+}
+.post-body .write-section p{
+    font-size: 1.6rem;
+}
+
+
+.code-section--header .language{
+    font-size: 1.4em;
+}
+
+
+.code-section--header{
+    padding: 1.6rem 0 1rem 0;
+}
+
+.code-section--header .points .red{
+    width: 10px;
+    height: 10px;
+}
+
+.code-section--header .points .yellow{
+    width: 10px;
+    height: 10px;
+}
+
+.code-section--header .points .green{
+    width: 10px;
+    height: 10px;
+}
+
+.code-section--header .points span{
+    margin-left: .8rem;
+}
+
+.code-section-main{
+    font-size: 1.5rem;
+}
+
+.footer-section a{
+    font-size: 1.8rem
+}
+
+
+/* Footer del Blog */
+
+.footer-section{
+    padding: 2rem 0 14rem 0;
+}
+
+.footer-section a{
+    font-size: 1.8rem
+}
+

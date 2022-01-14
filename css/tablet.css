@@ -1,0 +1,73 @@
+/* Seccion de cambio en la vista (break-point) tablet (540px) */
+
+
+/* Barra de navegacion superior */
+
+.btn-toggle{
+    display: block;
+}
+
+
+/* Barra de busqueda y tags */
+
+.nav_search{
+    border-bottom: 1px solid var(--background);
+}
+
+/* Pre-vista de los posts */
+
+.preview-post{
+    border-top: 1px solid var(--buttoms);
+
+}
+
+.preview-post_title h2{
+    width: 240px;
+    overflow-wrap: break-word;
+}
+
+.preview-post_container{
+    margin: auto;
+    width: 90%;
+
+    flex-direction: row;
+}
+
+.preview-post_quote{
+    padding-top: 0;
+
+    width: 40%;
+    height: 160px;
+    min-height: 120px;
+}
+
+/* Seccion de lectura de los post */
+
+.post{
+    width: 65%;
+}
+
+
+/* Codigo del snippet que se inserta en los post para escribir codigo */
+
+.code-section--header{
+    width: 95%;
+}
+
+
+
+
+
+/* Break-points */
+
+/* Vista entre tablet y desktop */
+
+@media (min-width: 720px){
+
+    /* Codigo de las hojas de los blogs */
+
+
+    .post{
+        width: 45%;
+    }
+}
