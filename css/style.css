@@ -134,13 +134,13 @@ main{
     text-decoration: none;
     color: inherit;
 
-    font-size: 1.2rem;
+    font-size: 1.6rem;
 }
 
 .nav_search--search{
     margin: auto;
     width: 90%;
-    padding: 1.2rem 0;
+    padding: 1.4rem 0;
 }
 
 .nav_search--search input{
