@@ -14,6 +14,12 @@
     border-bottom: 1px solid var(--background);
 }
 
+/* Titulo de la seccion main */
+
+.main_title{
+    border-bottom: none;
+}
+
 /* Pre-vista de los posts */
 
 .preview-post{
