@@ -83,7 +83,7 @@ header{
     text-decoration: none;
     color: inherit;
 
-    font-size: 1.4rem;
+    font-size: 1.6rem;
 }
 
 .btn-toggle{
@@ -284,7 +284,7 @@ main{
     margin: auto;
     max-width: 400px;
     text-align: center;
-    font-size: 2rem;
+    font-size: 2.8rem;
 }
 
 .post-title .time{
@@ -293,13 +293,13 @@ main{
     padding-top: .6rem;
     color: #a4a5a7;
     text-align: center;
-    font-size: 1rem;
+    font-size: 1.4rem;
 }
 
 .post-body .write-section p{
     margin-bottom: 2rem;
 
-    font-size: 1.2rem;
+    font-size: 1.6rem;
     text-align: justify;
     line-height: 2.4rem;
 
@@ -450,7 +450,7 @@ footer{
 .footer-section a{
     display: inline-block;
     padding-top: 1rem;
-    font-size: 1.4rem;
+    font-size: 1.8rem;
     color: #b4b4b4;
     text-decoration: none;
     border-bottom: 1px solid var(--letters-quotes);
